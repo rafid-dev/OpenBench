@@ -19,6 +19,7 @@
         "UHO_4060_vT.epd"
     ],
     "engines": [
-        "Jet"
+        "Jet",
+        "Peacekeeper"
     ]
 }
