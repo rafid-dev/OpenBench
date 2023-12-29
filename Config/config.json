@@ -20,6 +20,7 @@
     ],
     "engines": [
         "Jet",
-        "Peacekeeper"
+        "Peacekeeper",
+        "Clarity"
     ]
 }
