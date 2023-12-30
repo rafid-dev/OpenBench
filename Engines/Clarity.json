@@ -3,7 +3,7 @@
     "nps": 2209558,
     "source": "https://github.com/Vast342/Clarity",
     "build": {
-        "path": "src",
+        "path": "",
         "compilers": [
             "clang++"
         ],
