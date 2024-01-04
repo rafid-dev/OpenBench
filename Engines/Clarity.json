@@ -13,7 +13,6 @@
             "POPCNT"
         ],
         "systems": [
-            "Linux",
             "Windows"
         ]
     },
