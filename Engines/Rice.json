@@ -3,7 +3,7 @@
     "nps": 1300000,
     "source": "https://github.com/rafid-dev/rice",
     "build": {
-        "path": "",
+        "path": "src",
         "compilers": [
             "clang++"
         ],
