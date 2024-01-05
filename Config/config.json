@@ -21,6 +21,7 @@
     "engines": [
         "Jet",
         "Peacekeeper",
-        "Clarity"
+        "Clarity",
+        "Rice"
     ]
 }
