@@ -1,6 +1,6 @@
 {
     "private": false,
-    "nps": 1800000,
+    "nps": 2200000,
     "source": "https://github.com/rafid-dev/jet",
     "build": {
         "path": "",
